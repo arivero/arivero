@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Alejandro Rivero. I work at BIFI Instituto and at the spinoff Kampal. 
 - 👀 I’m interested in physics and computers
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me here, or via email at al.rivero at gmail
 
 <!---
